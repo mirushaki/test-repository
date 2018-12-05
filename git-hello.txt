@@ -1,1 +1,1 @@
-This is simple text file to TEST git.
+Hello, GIT!
